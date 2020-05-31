@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "bastienclement-ch"
+  },
+  "targets": {
+    "bastienclement-ch": {
+      "hosting": {
+        "bastienclement-ch": [
+          "bastienclement-ch"
+        ],
+        "api-bastienclement-ch": [
+          "api-bastienclement-ch"
+        ]
+      }
+    }
+  }
+}
